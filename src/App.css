@@ -1,0 +1,212 @@
+section {
+  border-radius: 6px;
+  margin: auto;
+  width: 50%;
+  background: #dcdcdc4f;
+  box-shadow: 4px 2px 6px #5a5b5b38;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 272px;
+}
+
+.textDefine {
+  display: flex;
+  flex-direction: column;
+}
+
+.textDefine span {
+  border-radius: 10px;
+  padding: 6px;
+  background: #8080802e;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.sec1 {
+  border-radius: 16px;
+  background: white;
+  padding: 20px;
+}
+
+body {
+  background: #c9c2c236;
+}
+
+.sec2 {
+  border-radius: 16px;
+  background: white;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.errorCls {
+  border-radius: 20px;
+  background: white;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.transaction-container {
+  background: white;
+  border-radius: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease-in-out;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: dodgerblue;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
+
+.success-message {
+  color: green;
+  font-size: 16px;
+}
+
+.submit-button {
+  padding: 8px 20px;
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.submit-button:hover {
+  background-color: #007bff;
+}
+
+/* Footer.css */
+
+/* Footer styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 40px 0;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-section {
+  flex: 1;
+  padding: 0 20px;
+  max-width: 250px;
+  margin-bottom: 20px;
+}
+
+.footer-section h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 20px;
+  border-top: 1px solid #555;
+  font-size: 14px;
+}
+
+.myHeader{
+  display: flex;
+    border-radius: 11px;
+    background: #ffffff66;
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.homeScreen{
+    gap: 20px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.data2 div, .data2, .data1 div, .data1{
+  background: #b8b8b8;
+    position: relative;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+img{
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+h5, p {
+  color: white;
+}
+
+.borderme{
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+button{
+  border-radius: 2px;
+}
+
+.navItems {
+  gap: 40px;
+    display: flex;
+}
+
+.navItems a {
+  text-decoration: none;
+}
