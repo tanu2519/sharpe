@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharpe/static/css/main.fce8b93d.css",
+    "main.js": "/sharpe/static/js/main.3460341d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/sharpe/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/sharpe/index.html",
+    "main.fce8b93d.css.map": "/sharpe/static/css/main.fce8b93d.css.map",
+    "main.3460341d.js.map": "/sharpe/static/js/main.3460341d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/sharpe/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce8b93d.css",
+    "static/js/main.3460341d.js"
+  ]
+}
